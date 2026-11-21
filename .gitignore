@@ -1,0 +1,7 @@
+# Cache et fichiers temporaires de Godot
+.godot/
+*.translation
+# Fichiers de l'éditeur / système
+.DS_Store
+*.tmp
+export_credentials.cfg
