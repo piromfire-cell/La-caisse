@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="432" viewBox="0 0 432 432">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5a331b"/>
+      <stop offset="1" stop-color="#2a160a"/>
+    </linearGradient>
+    <linearGradient id="beer" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd36b"/>
+      <stop offset="1" stop-color="#d98a0b"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(216 216) scale(0.7) translate(-272 -255)">
+  <!-- anse -->
+  <path d="M352 190 C 450 190 450 340 340 340" fill="none" stroke="#fff8e1" stroke-width="30" stroke-linecap="round"/>
+  <path d="M352 190 C 450 190 450 340 340 340" fill="none" stroke="#c9b98f" stroke-width="12" stroke-linecap="round"/>
+  <!-- chope -->
+  <path d="M138 150 L 372 150 L 352 410 Q 350 430 330 430 L 180 430 Q 160 430 158 410 Z" fill="url(#beer)" stroke="#fff8e1" stroke-width="14" stroke-linejoin="round"/>
+  <rect x="176" y="190" width="22" height="200" rx="11" fill="#ffffff" fill-opacity="0.35"/>
+  <!-- bulles -->
+  <g fill="#fff8e1" fill-opacity="0.75">
+    <circle cx="250" cy="330" r="9"/>
+    <circle cx="290" cy="270" r="7"/>
+    <circle cx="320" cy="350" r="6"/>
+    <circle cx="262" cy="220" r="6"/>
+  </g>
+  <!-- mousse -->
+  <g fill="#fff8e1">
+    <circle cx="165" cy="150" r="42"/>
+    <circle cx="225" cy="124" r="52"/>
+    <circle cx="295" cy="128" r="50"/>
+    <circle cx="350" cy="152" r="40"/>
+  </g>
+  <g fill="#eadfc0">
+    <circle cx="200" cy="168" r="14"/>
+    <circle cx="300" cy="170" r="12"/>
+  </g>
+
+  </g>
+</svg>
